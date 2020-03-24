@@ -8,7 +8,7 @@
 
 Typescript 与 vue 相结合
 
-methods，钩子都可以直接写作 class 的方法
+methods 钩子都可以直接写作 class 的方法
 
 computed 属性可以直接通过 get 来获得
 
@@ -16,6 +16,6 @@ computed 属性可以直接通过 get 来获得
 
 其他的都可以放到 Component 装饰器里
 
-Typescript 会成为大趋势
+Typescript 开拓了前端语言和数据结构关联
 
 Vue3.0 安排
