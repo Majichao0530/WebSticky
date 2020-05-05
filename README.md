@@ -1,4 +1,4 @@
-这是一个 Web 便签笔记应用的实战项目
+这是一个 Web 便签笔记应用项目
 
 技术栈：Typescript vue vuex 应用 ts-vue 脚手架
 
@@ -17,5 +17,3 @@ computed 属性可以直接通过 get 来获得
 其他的都可以放到 Component 装饰器里
 
 Typescript 开拓了前端语言和数据结构关联
-
-Vue3.0 安排
